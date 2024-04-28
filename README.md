@@ -1,7 +1,7 @@
 # Lamet
 A simple website project
 
-Google Trends _aggregator_ that stores most popular trends' articles in a database in a form of _posts_
+Google Trends _aggregator_ that stores in a database most popular google trends' articles in a form of _posts_
 
 A user can discover and watch these _posts_ 
 
