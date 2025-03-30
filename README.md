@@ -1,17 +1,14 @@
-# Lamet
-A simple website project
+# Trend Aggregator
 
-Google Trends _aggregator_ that stores in a database most popular google trends' articles in a form of _posts_
+Trend aggregator website.
 
-A user can discover and watch these _posts_ 
+Most popular trends from Google get stored in the database in the form of posts.
+Users can save posts to favorites and participate in conversations in chats under them.
+Authentication is implemented with OAuth and only supports google accounts.
 
-After authenticating with OAuth user can favorite _posts_ or participate in a conversation under a _post_ (something like comments on YouTube)
+Technologies: `React`, `Bootstrap`, `Express`, `MongoDB`, `OAuth`
 
-## Frontend
-react
+# License
 
-## Backend
-express
-
-## DB
-mongo
+Copyright (c) 2022 Андрей Храмцов.
+Licensed under [Apache License 2.0](LICENSE).
